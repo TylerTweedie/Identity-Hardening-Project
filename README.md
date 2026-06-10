@@ -1,4 +1,3 @@
-Markdown
 # Project: Personal Identity Hardening & Credential Lifecycle Management
 
 ## Project Overview
