@@ -1,12 +1,12 @@
 Markdown
 # Project: Personal Identity Hardening & Credential Lifecycle Management
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates the systematic auditing, securing, and hardening of personal digital assets against modern cyber threats. By implementing enterprise-grade credential management via **Bitwarden** and enforcing **Two-Factor Authentication (2FA)** across high-value targets (Email, Banking, and Social Media), this project showcases practical knowledge of IAM (Identity and Access Management) best practices, risk reduction, and defense-in-depth methodologies.
 
 ---
 
-## 🎯 Threat Model & Motivation
+## Threat Model & Motivation
 In cybersecurity, the "human element" and credential vulnerability remain the top attack vectors. The primary security objectives of this deployment were:
 
 1. **Eliminate Credential Stuffing Risk:** Replacing weak, reused passwords with globally unique, high-entropy strings to prevent a single data breach from compromising multiple accounts.
@@ -15,7 +15,7 @@ In cybersecurity, the "human element" and credential vulnerability remain the to
 
 ---
 
-## 🛠️ Architecture & Workflow
+## Architecture & Workflow
 
 The image below outlines the end-to-end blueprint implemented to audit and harden the digital footprint:
 
@@ -25,7 +25,7 @@ The image below outlines the end-to-end blueprint implemented to audit and harde
 
 ---
 
-## 🚶‍♂️ Step-by-Step Implementation Walkthrough
+## Step-by-Step Implementation Walkthrough
 
 ### Step 1: Motivation & Asset Identification
 * **Objective:** Map out high-value personal applications containing sensitive Personally Identifiable Information (PII) and financial data.
@@ -54,7 +54,7 @@ The image below outlines the end-to-end blueprint implemented to audit and harde
 
 ---
 
-## 📊 Security Outcomes & Key Takeaways
+## Security Outcomes & Key Takeaways
 
 | Metric / Risk Vector | Before Project | After Project (Hardened State) |
 | :--- | :--- | :--- |
