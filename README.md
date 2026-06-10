@@ -20,7 +20,7 @@ In cybersecurity, the "human element" and credential vulnerability remain the to
 The image below outlines the end-to-end blueprint implemented to audit and harden the digital footprint:
 
 <p align="center">
-![Securing My Digital Identity](Securing_my_digital_identity.png)<br>
+![Securing My Digital Identity](Securing my digital identity.png)<br>
 </p>
 
 ---
